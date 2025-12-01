@@ -1,0 +1,64 @@
+{
+  "version": 1,
+  "base_track": "潜在表明",
+  "base_artist": "MyGO!!!!!",
+  "createdAt": "2025-12-01T04:36:04.776403Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "潜在表明",
+      "artist": "MyGO!!!!!",
+      "has_synced": true,
+      "path": "select/01_潜在表明_MyGO!!!!!.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "潜在表明",
+      "artist": "MyGO!!!!!",
+      "has_synced": false,
+      "path": "select/02_潜在表明_MyGO!!!!!.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "潜在表明",
+      "artist": "MyGO!!!!!",
+      "has_synced": true,
+      "path": "select/03_潜在表明_MyGO!!!!!.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "潜在表明 - From THE FIRST TAKE",
+      "artist": "MyGO!!!!!",
+      "has_synced": false,
+      "path": "select/04_潜在表明_-_From_THE_FIRST_TAKE_MyGO!!!!!.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "潜在表明",
+      "artist": "MyGO!!!!!",
+      "has_synced": false,
+      "path": "select/pl_01_潜在表明_MyGO!!!!!.txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "潜在表明 - From THE FIRST TAKE",
+      "artist": "MyGO!!!!!",
+      "has_synced": false,
+      "path": "select/pl_02_潜在表明_-_From_THE_FIRST_TAKE_MyGO!!!!!.txt"
+    },
+    {
+      "id": "petitlyrics_3",
+      "source": "petitlyrics",
+      "title": "潜在表明",
+      "artist": "MyGO!!!!!",
+      "has_synced": false,
+      "path": "select/pl_03_潜在表明_MyGO!!!!!.txt"
+    }
+  ]
+}
